@@ -1,0 +1,4 @@
+valor a cofrinho;20.0
+filamento;60.0
+pedro;10.0
+isis;12.0
